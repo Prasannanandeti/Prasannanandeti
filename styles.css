@@ -169,7 +169,12 @@ textarea{
 form a{
     border: 2px solid #7600bc;
     border-radius: 9px;
+    padding:10px;
+    text-decoration:none;
 }
+form a:hover{
+    background-color:#7600bc;
+    text-decoration:none;
 footer{
     font-size: 22px;
     text-align: center;
